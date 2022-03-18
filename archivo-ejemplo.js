@@ -4,4 +4,4 @@ function suma (a, b)
 }
 
 
-console.log(suma(12,5));
+console.log(suma(12,15));
